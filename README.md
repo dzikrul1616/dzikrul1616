@@ -1,4 +1,4 @@
-![logo](https://github.com/dzikrul1616/dzikrul1616/blob/main/Github%20Banner%20Krolls.gif)
+![logo](https://github.com/dzikrul1616/dzikrul1616/blob/main/Github%20Banner%20Rolls.gif)
 <h1 align="center">Hi 👋, I'm M. Dzikrul Hakim</h1>
 <h3 align="center">A passionate FullStack developer Mobile from Indonesia</h3>
 <img align="right" alt="Coder GIF" width=400 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
