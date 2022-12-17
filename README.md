@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm M. Dzikrul Hakim</h1>
 <h3 align="center">A passionate FullStack developer Mobile from Indonesia</h3>
-<img alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
+<img align="right" alt="Coder GIF" width=400 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dzikrul1616&label=Profile%20views&color=0e75b6&style=flat" alt="dzikrul1616" /> </p>
