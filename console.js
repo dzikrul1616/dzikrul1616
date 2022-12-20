@@ -4,7 +4,6 @@ console.log("Hello World")
 console.log("Hello World")
 
 function main() {
-  retun null;
+  return null;
 }
-
-
+main()
